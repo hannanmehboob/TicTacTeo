@@ -4,7 +4,7 @@ A user friendly and responsive TicTacTeo Game built using Html,Css and JavaScrip
 [Click here to try the calculator!](https://github.com/hannanmehboob/TicTacTeo)
 
 ## Preview
-![TicTacTeo Demo](TicTacTeo/Assets/TicTacTeo-Animation.gif)
+![TicTacTeo Demo](TicTacTeo/Assets/Tic_Tac_TicAnimation.gif)
 
 ## Features
 - Grid Display (3x3)
