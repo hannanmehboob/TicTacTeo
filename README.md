@@ -1,7 +1,7 @@
 # TicTacTeo Game
 A user friendly and responsive TicTacTeo Game built using Html,Css and JavaScript. 
 ## Live Demo
-[Click here to try the calculator!](https://github.com/hannanmehboob/TicTacTeo)
+[Click here to try the TicTacTeo!](https://github.com/hannanmehboob/TicTacTeo)
 
 ## Preview
 ![TicTacTeo Demo](TicTacTeo/Assets/Tic_Tac_TicAnimation.gif)
